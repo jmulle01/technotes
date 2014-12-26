@@ -1,0 +1,39 @@
+Command to create an organization on github:
+
+Command to create a new repository on github:
+
+Command to configure my global username is :
+git config --global user.name "jmulle01"
+git config --global user.email "jmullen09@gmail.com"
+
+Command to create a new project in the local directory (pwd):
+git init <projectname>  
+
+Add all files in the pwd:
+git add .
+or
+git add /path/to/individual file
+
+Remove files:
+git rm --cached <filename>
+
+Get the status of git:
+git status
+
+To do a commit:
+git commit -m "message to go with the commit" 
+
+To see a history of operations use:
+git log
+
+Abbreviated listing of history:
+git log --oneline
+
+Quick commit:
+git commit -a -m "shortmessage"
+
+Show what files have been modified
+git status -s
+
+Upload to github:
+git push
