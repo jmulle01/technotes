@@ -37,3 +37,11 @@ git status -s
 
 Upload to github:
 git push
+
+git diff
+
+git diff --cached
+
+
+To add a remote repository:
+git remote 
