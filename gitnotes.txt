@@ -44,4 +44,6 @@ git diff --cached
 
 
 To add a remote repository:
-git remote 
+git remote add <repositoryname> <url of repository>
+
+git push <repositoryname> master
