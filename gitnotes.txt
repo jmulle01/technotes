@@ -1,4 +1,4 @@
-Command to create an organization on github:
+jCommand to create an organization on github:
 
 Command to create a new repository on github:
 
